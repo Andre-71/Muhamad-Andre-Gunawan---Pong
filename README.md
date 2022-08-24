@@ -1,4 +1,7 @@
 # Pong Game
+## Notes
+This game is builded in FullHD resolution.
+
 ## How to play
 ### Button to move the "left paddle"
 * move up: w
